@@ -15,3 +15,8 @@
     "netlify-cli": "^15.9.1"
   }
 }
+{
+  "scripts": {
+    "build": "your-build-command"
+  }
+}
